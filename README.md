@@ -2,10 +2,10 @@
 <h3 align="center">ML Engineer | NLP · RAG · LLM Systems | Paris, France</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-SLUG" target="_blank">
+  <a href="https://www.linkedin.com/in/gayathri-pamuluru/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.youtube.com/YOUR-CHANNEL" target="_blank">
+  <a href="https://youtu.be/e8eAB2YhnZU" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
@@ -55,9 +55,9 @@ Automated data validation every 2 minutes via Airflow DAGs, bad data routing, Gr
 > AI-powered customer churn prediction with explainability
 
 `XGBoost` `MLflow` `SHAP` `Scikit-learn` `CRISP-DM`  
-Full ML lifecycle: EDA → feature engineering → experiment tracking → model registry → SHAP explainability.
+Full ML lifecycle: EDA → feature engineering → experiment tracking → model registry → SHAP explainability (beeswarm, waterfall, dependence plots).
 
 ---
 
 ## 📬 Let's Connect
-💌 Open to internship conversations — reach me on [LinkedIn](https://www.linkedin.com/in/gayathri-pamuluru)
+💌 Open to internship conversations — reach me on [LinkedIn](https://www.linkedin.com/in/gayathri-pamuluru/)
